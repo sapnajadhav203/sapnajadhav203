@@ -56,7 +56,7 @@
 <a href="https://github.com/sapnajadhav203" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.kaggle.com/https://www.kaggle.com/sapnajadhav203" target="_blank">
+<a href="https://www.kaggle.com/sapnajadhav203" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 </div>  

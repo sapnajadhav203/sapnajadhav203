@@ -5,7 +5,7 @@
   
 
 ### <div align="center"> Hi there👋 </br>I'm Sapna, BI Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.👩‍💻📈📉 working remotely since 2021 🚀</div>  
-  
+  <br/>  
 
 - 👩‍💻 I’m currently working on [Tableau](https://public.tableau.com/app/profile/sapna.jadhav5600/vizzes)  
   
